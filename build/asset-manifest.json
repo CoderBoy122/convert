@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Convertithere.com/static/css/main.44fe38eb.css",
+    "main.js": "/Convertithere.com/static/js/main.07855de5.js",
+    "static/js/787.7e21c795.chunk.js": "/Convertithere.com/static/js/787.7e21c795.chunk.js",
+    "index.html": "/Convertithere.com/index.html",
+    "main.44fe38eb.css.map": "/Convertithere.com/static/css/main.44fe38eb.css.map",
+    "main.07855de5.js.map": "/Convertithere.com/static/js/main.07855de5.js.map",
+    "787.7e21c795.chunk.js.map": "/Convertithere.com/static/js/787.7e21c795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fe38eb.css",
+    "static/js/main.07855de5.js"
+  ]
+}
